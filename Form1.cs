@@ -15,6 +15,40 @@ namespace MusicPlayer
         public Form1()
         {
             InitializeComponent();
+            hide();
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            presently();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void hide()
+        {
+            panel4.Visible = false;
+        }
+
+        private void presently()
+        {
+            if (panel4.Visible == false)
+            {
+                panel4.Visible = true;
+            }
+        }
+
+        private void icbtnmusic_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
