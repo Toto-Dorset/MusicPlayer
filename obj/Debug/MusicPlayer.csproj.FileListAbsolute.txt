@@ -1,0 +1,15 @@
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+G:\My Drive\[1] ESILV\A3\DUBLIN\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
